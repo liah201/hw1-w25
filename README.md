@@ -1,2 +1,2 @@
-# hw1-w25
-25Winter_SI539
+# hw2_simple_css
+Starter code for simple css assignment
